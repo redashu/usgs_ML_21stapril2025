@@ -120,3 +120,11 @@ Collecting threadpoolctl>=2.0.0
 
 - categorical data handling 
 <img src="ml10.png">
+
+### final data preprocessing 
+
+<img src="ml11.png">
+
+### Understanding train_test_split function 
+
+<img src="ml12.png">
