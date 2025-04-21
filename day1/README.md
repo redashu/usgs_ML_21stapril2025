@@ -43,3 +43,16 @@ learntechbyme@34.9.126.201's password:
 Welcome to Ubuntu 20.04.6 LTS (GNU/Linux 5.15.0-1078-gcp x86_64)
 
 ```
+
+### after login to remote server 
+
+- creating python virtual env to install and setup custom python libs 
+
+```
+learntechbyme@usgs-ml2:~$ python3  -m venv  ashu-env 
+learntechbyme@usgs-ml2:~$ ls
+ashu-env  jupyterhub.sqlite  jupyterhub_config.py  jupyterhub_config.py.back  jupyterhub_cookie_secret  usgs
+learntechbyme@usgs-ml2:~$ 
+
+
+```
