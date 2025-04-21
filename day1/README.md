@@ -128,3 +128,7 @@ Collecting threadpoolctl>=2.0.0
 ### Understanding train_test_split function 
 
 <img src="ml12.png">
+
+### For classification purpose we are going to use DecisionTreeClassifier 
+
+<img src="ml13.png">
