@@ -132,3 +132,8 @@ Collecting threadpoolctl>=2.0.0
 ### For classification purpose we are going to use DecisionTreeClassifier 
 
 <img src="ml13.png">
+
+## AI major category 
+
+<img src="ml14.png">
+
