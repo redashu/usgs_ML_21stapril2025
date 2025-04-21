@@ -56,3 +56,67 @@ learntechbyme@usgs-ml2:~$
 
 
 ```
+
+### loading virtual env 
+
+```
+learntechbyme@usgs-ml2:~$ source ashu-env/bin/activate
+(ashu-env) learntechbyme@usgs-ml2:~$ 
+
+
+===>> Installing pandas 
+
+(ashu-env) learntechbyme@usgs-ml2:~$ pip3  install pandas 
+Collecting pandas
+  Using cached pandas-2.0.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (12.4 MB)
+Collecting pytz>=2020.1
+  Using cached pytz-2025.2-py2.py3-none-any.whl (509 kB)
+Collecting numpy>=1.20.3; python_version < "3.10"
+  Using cached numpy-1.24.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (17.3 MB)
+Collecting tzdata>=2022.1
+  Using cached tzdata-2025.2-py2.py3-none-any.whl (347 kB)
+Collecting python-dateutil>=2.8.2
+  Using cached python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
+Collecting six>=1.5
+  Using cached six-1.17.0-py2.py3-none-any.whl (11 kB)
+Installing collected packages: pytz, numpy, tzdata, six, python-dateutil, pandas
+
+
+```
+
+## IN machine learning supervised Model training 
+
+- data preprocessing is the key thing to be taken care 
+- which is before we provide data to any ML algo 
+
+<img src="ml7.png">
+
+### Info about machine learning model data 
+
+- supervised machine learning data info 
+<img src="ml8.png">
+
+## Dealing with missing values thing in python Machine learning 
+
+- using scikit-learn 
+
+```
+ashu-env) learntechbyme@usgs-ml2:~$ pip3 install scikit-learn 
+Collecting scikit-learn
+  Downloading scikit_learn-1.3.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (11.1 MB)
+     |████████████████████████████████| 11.1 MB 2.9 MB/s 
+Requirement already satisfied: numpy<2.0,>=1.17.3 in ./ashu-env/lib/python3.8/site-packages (from scikit-learn) (1.24.4)
+Collecting threadpoolctl>=2.0.0
+
+```
+
+## data processing 
+
+- label encoding 
+
+<img src="ml9.png">
+
+## data processing 
+
+- categorical data handling 
+<img src="ml10.png">
