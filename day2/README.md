@@ -43,3 +43,11 @@ Requirement already satisfied: numpy in ./ashu-env/lib/python3.8/site-packages (
 - to predict earthquake mag 
 
 <img src="prob2.png">
+
+## DecisionTree to RandomForest 
+
+<img src="prob3.png">
+
+### doing model eval in Classification vs Regression 
+
+<img src="eval.png">
