@@ -67,3 +67,16 @@ Requirement already satisfied: numpy in ./ashu-env/lib/python3.8/site-packages (
 ## NN more info 
 
 <img src="nn1.png">
+
+### Loss vs activation functions in ANN 
+
+<img src="nn2.png">
+
+## Implementing ANN using python frameworks 
+
+<img src="nn3.png">
+
+### TYpe of NN 
+
+<img src="nn4.png">
+
