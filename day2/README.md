@@ -51,3 +51,19 @@ Requirement already satisfied: numpy in ./ashu-env/lib/python3.8/site-packages (
 ### doing model eval in Classification vs Regression 
 
 <img src="eval.png">
+
+## Supervised ML 
+
+<img src="ml.png">
+
+### ML --> DL 
+
+<img src="dl.png">
+
+## Introduction to NN 
+
+<img src="nn.png">
+
+## NN more info 
+
+<img src="nn1.png">
