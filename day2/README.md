@@ -33,3 +33,13 @@ Requirement already satisfied: numpy in ./ashu-env/lib/python3.8/site-packages (
 ## Understadning DecisionTree classificiation method 
 
 <img src="desc.png">
+
+### dealing with huge dataset problem in ML 
+
+<img src="prob1.png">
+
+## Doing Machine learning data training with earthquake data using Regression tech 
+
+- to predict earthquake mag 
+
+<img src="prob2.png">
