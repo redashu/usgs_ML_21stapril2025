@@ -5,3 +5,7 @@
 ## Revision 
 
 <img src="rev.png">
+
+## Revision of ANN structure 
+
+<img src="ann1.png">
