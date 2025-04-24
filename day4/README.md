@@ -37,3 +37,8 @@ Required-by:
 (usgs) learntechbyme@usgsml4:~$ 
 
 ```
+
+## more info about NLP -- python options 
+
+<img src="nlpx1.png">
+
