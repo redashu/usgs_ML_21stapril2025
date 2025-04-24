@@ -54,3 +54,7 @@ Required-by:
 
 <img src="pol.png">
 
+## Process for sentiment analysis from file dataset
+
+<img src="pol2.png">
+
