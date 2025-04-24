@@ -42,3 +42,15 @@ Required-by:
 
 <img src="nlpx1.png">
 
+## for sentiment analysis text blob option understanding 
+
+- checking dataset for words 
+- words are having score 
+- over score we measure using polarity 
+- Range of polarity (-1  +1)
+- Positive : Polarity > 0.1  --likes good , awesome ,etc
+- Negative : POlarity < - 0.1 -- like , bad , worst etc
+- Neutral : Polarity -0.1 to 0.1 
+
+<img src="pol.png">
+
