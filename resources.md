@@ -7,3 +7,7 @@
 [click_here](https://huggingface.co/)
 
 
+## OPenAI interaction using python 
+
+[click_here](https://pypi.org/project/openai/)
+
